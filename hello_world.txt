@@ -1,0 +1,3 @@
+HelloooOooOoOo0, World
+Today is September 8th, 2022.
+And this is officialy, my first repo!
